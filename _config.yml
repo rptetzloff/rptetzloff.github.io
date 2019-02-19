@@ -24,9 +24,6 @@ description: The Personal Blog of Ray Tetzloff!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Résumé: "resume"
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -77,7 +74,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   google: false
   linkedin: false
@@ -89,10 +86,10 @@ url-pretty: "RayTetzloff.com"  # eg. "www.raytetzloff.com"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: "UA-134728335-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-134728335-1"
 
 # Google Tag Manager ID
 #gtm: ""
