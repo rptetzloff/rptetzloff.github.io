@@ -89,7 +89,7 @@ url-pretty: "RayTetzloff.com"  # eg. "www.raytetzloff.com"
 #gtag: "UA-134728335-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-134728335-1"
+google_analytics: "UA-134728335-1"
 
 # Google Tag Manager ID
 #gtm: ""
