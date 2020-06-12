@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CWNA Journey
+tags: [cwna, wi-fi]
 ---
 
 So, this is my first real post on this platform. It's been a long time since I've written any sort of blog post type material. Even then, I've probably not written anything particularly substantive. Lol.

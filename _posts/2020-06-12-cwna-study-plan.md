@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CWNA Study Plan
+tags: [cwna, wi-fi, study plan]
 ---
 As I work toward completing my [CWNA](https://www.cwnp.com/certifications/cwna) certification, I want to establish a study framework that I think makes sense for studying this. I'm sure there are a lot of different ways in which this can be studied, but in working with the [official study guide](https://www.amazon.com/CWNA-107-Certified-Wireless-Network-Administrator/dp/1976925045/), the [unofficial study guide](https://www.amazon.com/Certified-Wireless-Network-Administrator-Study/dp/1119425786/), and the [exam objectives](https://www.cwnp.com/uploads/cwna-107-objectives-2017.pdf), there's a lot of material from which to learn. I think having a study plan that includes some prerequisites and works toward fulfilling the exam objectives will be beneficial.
 
