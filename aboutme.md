@@ -11,6 +11,7 @@ My name is Ray Tetzloff, and I'm here to learn. I don't really care if anyone el
 1. I'm an IT Generalist. I've worked in IT for most of the last 15 years. I've worked as a data center engineer, a network engineer, a systems administrator, and I do some programming.  
 1. I love physics and science in general. My college degree is actually in Chemistry. Coupled with my IT background, I'm intrigued by wireless communications, and in particular, Wi-Fi.
 1. I am very introverted. I don't like parties. I don't like crowds. They exhaust me, and it takes a long time to recover from such gatherings.
+1. I love to cook, but I've got Celiac Disease and probably some other intolerances or allergies. I love to try different methods of gluten free baking and cooking.
 
 ### goals
 
