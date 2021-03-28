@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 13
+title: Gluten Free Sourdough - Attempt 11
+date: 2021-03-16
+trial: 11
 ---
 
 ## Ingredients
@@ -21,8 +23,8 @@ title: Gluten Free Sourdough - Attempt # 13
 - 90g potato starch (**not** potato flour)
 - 40g millet flour
 - 40g teff flour
-- 35g sorghum flour
-- 35g oat flour
+- 30g cassava flour
+- 40g oat flour
 - 12g fine sea salt
 
 ## Instructions
@@ -31,4 +33,4 @@ This boule was proofed for about three hours in a 8 inch banneton, baked at 425Â
 
 ## Notes
 
-These buns were a little hard, but held up well.
+This was a duplicate of the previous. Unfortunately, I did not document notes for this attempt.

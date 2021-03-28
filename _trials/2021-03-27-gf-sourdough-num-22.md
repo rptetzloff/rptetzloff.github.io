@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 16
+title: Gluten Free Sourdough - Attempt 22
+date: 2021-03-27
+trial: 22
 ---
 
 ## Ingredients
@@ -9,7 +11,7 @@ title: Gluten Free Sourdough - Attempt # 16
 - 150g sourdough starter (125% hydration - sorghum, quinoa, white rice flours)
 - 100g water
 - 80g brown rice flour
-- (plus add 10g olive oil when mixing in liquids and yeast)
+- (plus add 20g olive oil when mixing in liquids and yeast)
 
 ### Liquids
 - 20g psyllium husk (whole, not powder)
@@ -19,7 +21,7 @@ title: Gluten Free Sourdough - Attempt # 16
 ### Yeast
 - 10g maple syrup or honey
 - 50g water (120º F)
-- 1/2 Tbsp instant/quick rise yeast
+- 1 Tbsp instant/quick rise yeast
 
 ### Dry
 - 70g tapioca starch/flour (**not** cassava flour)
@@ -27,7 +29,7 @@ title: Gluten Free Sourdough - Attempt # 16
 - 40g millet flour
 - 40g teff flour
 - 40g sorghum flour
-- 35g oat flour
+- 40g oat flour
 - 12g fine sea salt
 
 ## Instructions
@@ -36,4 +38,4 @@ This was proofed for about ten hours in a bread pan, baked at 425º for 40 minut
 
 ## Notes
 
-This was the first sandwich loaf attempt.
+This was a good sandwich loaf with little rise. Bread was great but the crust was soft with the extra olive oil. This held together well in a sandwich and toasted well with a nice chew. Crust was a little hard when toasted, but not bad.

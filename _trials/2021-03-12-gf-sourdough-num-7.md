@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 12
+title: Gluten Free Sourdough - Attempt 7
+date: 2021-03-12
+trial: 7
 ---
 
 ## Ingredients
@@ -13,15 +15,14 @@ title: Gluten Free Sourdough - Attempt # 12
 
 ### Liquids
 - 20g psyllium husk (whole, not powder)
-- 20g maple syrup or honey
+- 21g maple syrup or honey
 - 300g water
 
 ### Dry
-- 70g tapioca starch/flour (**not** cassava flour)
-- 90g potato starch (**not** potato flour)
-- 40g millet flour
-- 40g teff flour
-- 30g cassava flour
+- 60g tapioca starch/flour (**not** cassava flour)
+- 80g potato starch (**not** potato flour)
+- 80g sorghum flour
+- 40g cassava flour
 - 40g oat flour
 - 12g fine sea salt
 
@@ -31,4 +32,4 @@ This boule was proofed for about three hours in a 8 inch banneton, baked at 425Â
 
 ## Notes
 
-This was a duplicate of the previous two. Unfortunately, I did not document notes for this attempt.
+Unfortunately, I did not document the results.

@@ -89,31 +89,37 @@ This bread is great on its own, toasted with almond butter and fruit preserves, 
 
 Overall, this is one of the best gluten free breads I've tried!
 
-# Experiments
+# Trial Runs
 
-1. [2021-03-06: # 1](/assets/experiments/gf-sourdough/2021-03-06-gf-sourdough-num-1.md)
-1. [2021-03-07: # 2](/assets/experiments/gf-sourdough/2021-03-07-gf-sourdough-num-2.md)
-1. [2021-03-08: # 3](/assets/experiments/gf-sourdough/2021-03-08-gf-sourdough-num-3.md)
-1. [2021-03-09: # 4](/assets/experiments/gf-sourdough/2021-03-09-gf-sourdough-num-4.md)
-1. [2021-03-10: # 5](/assets/experiments/gf-sourdough/2021-03-10-gf-sourdough-num-5.md)
-1. [2021-03-11: # 6](/assets/experiments/gf-sourdough/2021-03-11-gf-sourdough-num-6.md)
-1. [2021-03-12: # 7](/assets/experiments/gf-sourdough/2021-03-12-gf-sourdough-num-7.md)
-1. [2021-03-13: # 8](/assets/experiments/gf-sourdough/2021-03-13-gf-sourdough-num-8.md)
-1. [2021-03-14: # 9](/assets/experiments/gf-sourdough/2021-03-14-gf-sourdough-num-9.md)
-1. [2021-03-15: # 10](/assets/experiments/gf-sourdough/2021-03-15-gf-sourdough-num-10.md)
-1. [2021-03-16: # 11](/assets/experiments/gf-sourdough/2021-03-16-gf-sourdough-num-11.md)
-1. [2021-03-17: # 12](/assets/experiments/gf-sourdough/2021-03-17-gf-sourdough-num-12.md)
-1. [2021-03-18: # 13](/assets/experiments/gf-sourdough/2021-03-18-gf-sourdough-num-13.md)
-1. [2021-03-19: # 14](/assets/experiments/gf-sourdough/2021-03-19-gf-sourdough-num-14.md)
-1. [2021-03-20: # 15](/assets/experiments/gf-sourdough/2021-03-20-gf-sourdough-num-15.md)
-1. [2021-03-21: # 16](/assets/experiments/gf-sourdough/2021-03-21-gf-sourdough-num-16.md)
-1. [2021-03-22: # 17](/assets/experiments/gf-sourdough/2021-03-22-gf-sourdough-num-17.md)
-1. [2021-03-23: # 18](/assets/experiments/gf-sourdough/2021-03-23-gf-sourdough-num-18.md)
-1. [2021-03-24: # 19](/assets/experiments/gf-sourdough/2021-03-24-gf-sourdough-num-19.md)
-1. [2021-03-25: # 20](/assets/experiments/gf-sourdough/2021-03-25-gf-sourdough-num-20.md)
-1. [2021-03-26: # 21](/assets/experiments/gf-sourdough/2021-03-26-gf-sourdough-num-21.md)
-1. [2021-03-27: # 22](/assets/experiments/gf-sourdough/2021-03-27-gf-sourdough-num-22.md)
-1. [2021-03-28: # 23](/assets/experiments/gf-sourdough/2021-03-28-gf-sourdough-num-23.md)
+<ul>
+{% for trial in site.trials %}
+<li><a href="{{ trial.url }}">{{ trial.date }} - {{ trial.trial }}</a></li>
+{% endfor %}
+</ul>
+
+1. [2021-03-06: # 1](/_trials/2021-03-06-gf-sourdough-num-1.md)
+1. [2021-03-07: # 2](/_trials/2021-03-07-gf-sourdough-num-2.md)
+1. [2021-03-08: # 3](/_trials/2021-03-08-gf-sourdough-num-3.md)
+1. [2021-03-09: # 4](/_trials/2021-03-09-gf-sourdough-num-4.md)
+1. [2021-03-10: # 5](/_trials/2021-03-10-gf-sourdough-num-5.md)
+1. [2021-03-11: # 6](/_trials/2021-03-11-gf-sourdough-num-6.md)
+1. [2021-03-12: # 7](/_trials/2021-03-12-gf-sourdough-num-7.md)
+1. [2021-03-13: # 8](/_trials/2021-03-13-gf-sourdough-num-8.md)
+1. [2021-03-14: # 9](/_trials/2021-03-14-gf-sourdough-num-9.md)
+1. [2021-03-15: # 10](/_trials/2021-03-15-gf-sourdough-num-10.md)
+1. [2021-03-16: # 11](/_trials/2021-03-16-gf-sourdough-num-11.md)
+1. [2021-03-17: # 12](/_trials/2021-03-17-gf-sourdough-num-12.md)
+1. [2021-03-18: # 13](/_trials/2021-03-18-gf-sourdough-num-13.md)
+1. [2021-03-19: # 14](/_trials/2021-03-19-gf-sourdough-num-14.md)
+1. [2021-03-20: # 15](/_trials/2021-03-20-gf-sourdough-num-15.md)
+1. [2021-03-21: # 16](/_trials/2021-03-21-gf-sourdough-num-16.md)
+1. [2021-03-22: # 17](/_trials/2021-03-22-gf-sourdough-num-17.md)
+1. [2021-03-23: # 18](/_trials/2021-03-23-gf-sourdough-num-18.md)
+1. [2021-03-24: # 19](/_trials/2021-03-24-gf-sourdough-num-19.md)
+1. [2021-03-25: # 20](/_trials/2021-03-25-gf-sourdough-num-20.md)
+1. [2021-03-26: # 21](/_trials/2021-03-26-gf-sourdough-num-21.md)
+1. [2021-03-27: # 22](/_trials/2021-03-27-gf-sourdough-num-22.md)
+1. [2021-03-28: # 23](/_trials/2021-03-28-gf-sourdough-num-23.md)
 
 # Sources
 These are the sources I use for the following ingredients. I tend to buy in bulk, as there is often a significant discount in doing so. 

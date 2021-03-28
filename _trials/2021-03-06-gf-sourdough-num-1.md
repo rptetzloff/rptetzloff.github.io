@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 9
+title: Gluten Free Sourdough - Attempt 1
+date: 2021-03-06
+trial: 1
 ---
 
 ## Ingredients
@@ -13,15 +15,16 @@ title: Gluten Free Sourdough - Attempt # 9
 
 ### Liquids
 - 20g psyllium husk (whole, not powder)
-- 21g maple syrup or honey
+- 20g maple syrup or honey
 - 300g water
 
 ### Dry
-- 70g tapioca starch/flour (**not** cassava flour)
-- 90g potato starch (**not** potato flour)
+- 60g tapioca starch/flour (**not** cassava flour)
+- 80g potato starch (**not** potato flour)
 - 80g sorghum flour
-- 30g cassava flour
-- 40g oat flour
+- 65g brown rice flour
+- 20g quinoa flour (approximate)
+- 20g buckwheat flour (approximate)
 - 12g fine sea salt
 
 ## Instructions
@@ -30,4 +33,5 @@ This boule was proofed for about three hours in a 8 inch banneton, baked at 425Â
 
 ## Notes
 
-This was a reattempt of the previous batch with remembering the salt. Flavor was much improved.
+This was the first loaf made, and did not rise significantly. It mimicked the recipe from [Bakerita](https://www.bakerita.com/gluten-free-sourdough-bread/), but had quinoa and buckwheat flours added to firm up the texture of the dough.
+

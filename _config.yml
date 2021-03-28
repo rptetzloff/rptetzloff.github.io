@@ -148,6 +148,10 @@ paginate: 10
 kramdown:
   input: GFM
 
+collections:
+  trials:
+    output: true
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -

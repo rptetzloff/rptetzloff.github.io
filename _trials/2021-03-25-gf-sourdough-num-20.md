@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 22
+title: Gluten Free Sourdough - Attempt 20
+date: 2021-03-25
+trial: 20
 ---
 
 ## Ingredients
@@ -9,7 +11,7 @@ title: Gluten Free Sourdough - Attempt # 22
 - 150g sourdough starter (125% hydration - sorghum, quinoa, white rice flours)
 - 100g water
 - 80g brown rice flour
-- (plus add 20g olive oil when mixing in liquids and yeast)
+- (plus add 10g olive oil when mixing in liquids and yeast)
 
 ### Liquids
 - 20g psyllium husk (whole, not powder)
@@ -19,7 +21,7 @@ title: Gluten Free Sourdough - Attempt # 22
 ### Yeast
 - 10g maple syrup or honey
 - 50g water (120º F)
-- 1 Tbsp instant/quick rise yeast
+- 1/2 Tbsp instant/quick rise yeast
 
 ### Dry
 - 70g tapioca starch/flour (**not** cassava flour)
@@ -32,8 +34,8 @@ title: Gluten Free Sourdough - Attempt # 22
 
 ## Instructions
 
-This was proofed for about ten hours in a bread pan, baked at 425º for 40 minutes covered in foil, then foil removed and baked for an additional 20 minutes.
+This was divided into eight portions for hamburger buns. They were proofed for about ten hours in a hamburger bun mold, baked at 425º for 30 minutes covered in foil, then foil removed and baked for an additional 10 minutes.
 
 ## Notes
 
-This was a good sandwich loaf with little rise. Bread was great but the crust was soft with the extra olive oil. This held together well in a sandwich and toasted well with a nice chew. Crust was a little hard when toasted, but not bad.
+This was a good bun with softer crust due to olive oil. Nice chew and made a good breakfast sandwich that held together well.

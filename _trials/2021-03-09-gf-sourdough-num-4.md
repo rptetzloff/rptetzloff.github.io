@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 4
+title: Gluten Free Sourdough - Attempt 4
+date: 2021-03-09
+trial: 4
 ---
 
 ## Ingredients

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 1
+title: Gluten Free Sourdough - Attempt 6
+date: 2021-03-11
+trial: 6
 ---
 
 ## Ingredients
@@ -17,12 +19,11 @@ title: Gluten Free Sourdough - Attempt # 1
 - 300g water
 
 ### Dry
-- 60g tapioca starch/flour (**not** cassava flour)
-- 80g potato starch (**not** potato flour)
-- 80g sorghum flour
-- 65g brown rice flour
-- 20g quinoa flour (approximate)
-- 20g buckwheat flour (approximate)
+- 70g tapioca starch/flour (**not** cassava flour)
+- 90g potato starch (**not** potato flour)
+- 100g sorghum flour
+- 50g cassava flour
+- 50g oat flour
 - 12g fine sea salt
 
 ## Instructions
@@ -31,5 +32,4 @@ This boule was proofed for about three hours in a 8 inch banneton, baked at 425Â
 
 ## Notes
 
-This was the first loaf made, and did not rise significantly. It mimicked the recipe from [Bakerita](https://www.bakerita.com/gluten-free-sourdough-bread/), but had quinoa and buckwheat flours added to firm up the texture of the dough.
-
+Unfortunately, I did not document the results.

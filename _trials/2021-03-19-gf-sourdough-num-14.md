@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 15
+title: Gluten Free Sourdough - Attempt 14
+date: 2021-03-19
+trial: 14
 ---
 
 ## Ingredients
@@ -13,21 +15,16 @@ title: Gluten Free Sourdough - Attempt # 15
 
 ### Liquids
 - 20g psyllium husk (whole, not powder)
-- 15g maple syrup or honey
-- 250g water
-
-### Yeast
-- 10g maple syrup or honey
-- 50g water (120º F)
-- 1/2 Tbsp instant/quick rise yeast
+- 20g maple syrup or honey
+- 300g water
 
 ### Dry
 - 70g tapioca starch/flour (**not** cassava flour)
 - 90g potato starch (**not** potato flour)
 - 40g millet flour
 - 40g teff flour
-- 40g sorghum flour
-- 40g oat flour
+- 35g sorghum flour
+- 35g oat flour
 - 12g fine sea salt
 
 ## Instructions
@@ -36,4 +33,4 @@ This was divided into six portions for hamburger buns. They were proofed for abo
 
 ## Notes
 
-This was the first attempt using yeast, in addition to the sourdough. Buns rose well and were a little softer than the previous attempt.
+Unfortunately, I did not document notes for this attempt.

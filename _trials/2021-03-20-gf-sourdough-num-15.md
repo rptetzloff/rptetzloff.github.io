@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Gluten Free Sourdough - Attempt # 18
+title: Gluten Free Sourdough - Attempt 15
+date: 2021-03-20
+trial: 15
 ---
 
 ## Ingredients
@@ -32,8 +34,8 @@ title: Gluten Free Sourdough - Attempt # 18
 
 ## Instructions
 
-This was proofed for about ten hours in a bread pan, baked at 425º for 40 minutes covered in foil, then foil removed and baked for an additional 20 minutes.
+This was divided into six portions for hamburger buns. They were proofed for about ten hours in a muffin top pan, baked at 425º for 35 minutes covered in foil, then foil removed and baked for an additional 20 minutes.
 
 ## Notes
 
-This was a good sandwich loaf with little rise. Bread was slightly tacky but the crust was softer with the olive oil.
+This was the first attempt using yeast, in addition to the sourdough. Buns rose well and were a little softer than the previous attempt.
