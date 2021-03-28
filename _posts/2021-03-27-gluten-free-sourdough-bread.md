@@ -4,7 +4,21 @@ title: Gluten Free Sourdough Bread
 tags: [gluten free, gluten-free, sourdough, bread, buns, boule]
 ---
 # Gluten Free Sourdough Bread and Buns
-This is the mixture I've settled on for making gluten free sourdough bread and buns.
+I've been eating gluten-free for about seven years now. For most things, there are reasonable substitutes, even if needing to be made from scratch. You can even get genuine [gluten-free Oreos](https://www.oreo.com/oreo-cookies/gluten-free) now, and they're *good*.
+
+The problem has been bread. Most gluten-free breads are either so dense that you can't really make a reasonable sandwich from them, or they're so crumbly or brittle that they fall apart to a sandwich of any substance.
+
+I've tried different recipes over the past seven years. Some work well, but they've always had those same problems. They were passable, but they weren't exciting. 
+
+My sister texted me a few weeks ago about the concept of gluten-free sourdough. I'd seen recipes in several different cookbooks, but it always seemed like too much work. This was different in that it really wasn't that different from regular sourdough. Grow starter for several days, and finally you get some decent bread. There's a ton of discard to deal with, and you have to get creative with how the discard is used. 
+
+I'll post the starter and, as I track what I do with excess discard, I'll post some of those as well. This post, however, is about the bread itself.
+
+This is the mixture I've settled on for making gluten free sourdough bread and buns. If you're looking for stretchy, gluten-y bread, you're not going to find it. What you may find is a bread that is exciting in flavor, texture, and nutritional value. You might have to reimagine your concept of bread a little, but it serves the main purpose that bread is supposed to serve: it's a vessel. You can make a sandwich that has good texture. You can have a burger that doesn't fall apart. You can have garlic bread that has a wonderfully chewy texture. You can have amazing croutons that hold some crunch when put into soups or onto salads.
+
+You can have ***bread*** again. 
+
+And lots of it...
 
 ## Ingredients
 
@@ -25,13 +39,23 @@ This is the mixture I've settled on for making gluten free sourdough bread and b
 - 1 Tbsp instant/quick rise yeast
 
 ### Dry
-- 70g tapioca starch
-- 90g potato starch
+- 70g tapioca starch/flour (**not** cassava flour)
+- 90g potato starch (**not** potato flour)
 - 40g sorghum flour
 - 40g millet flour
 - 40g teff flour
-- 35g oat flour
+- 35g oat flour (gluten-free, of course)
 - 12g fine sea salt
+
+### Substitutions
+
+You can probably substitute most flours or starches for the ones listed. I haven't experimented enough with variations yet to say too much what will and won't work. That said, the one flour I think is probably the deal breaker is teff. It adds a bit of stretch and softness to the bread that I wasn't getting with other variations I tried.
+
+I think the starch to flour ratio is probably important. I intend to try different combinations to see how much of a difference this makes. As indicated, don't use potato flour in place of potato starch. I have not tried substituting potato flour for any of the other flour yet.
+
+I was recently off nuts, so I have not experimented with almond, cashew, hazelnut, etc. flours. I'd imagine a little bit of substitution would work fine, but it's on my list to test this.
+
+I would not substitute coconut flour for anything listed, at least straight up. I think that it would result in a bread with a weird texture.
 
 ## Directions
 1. In the evening, I mix together the preferment in a glass bowl and a feed my starter. The preferment sits at room temperature, covered with a towel, until morning.
