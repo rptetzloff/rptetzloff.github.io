@@ -40,14 +40,13 @@ navbar-links:
 
 navbar-col: "#191d5c"
 navbar-text-col: "#ffffff"
-navbar-children-col: "#5b5718"
+navbar-border-col: "#5b5718"
 page-col: "#FFFFFF"
-link-col: "#191d5c"
+link-col: "#5b5718"
 hover-col: "#183e5b"
 footer-col: "#191d5c"
 footer-text-col: "#ffffff"
 footer-link-col: "#5b5718"
-footer-hover-col: "#57185b"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
