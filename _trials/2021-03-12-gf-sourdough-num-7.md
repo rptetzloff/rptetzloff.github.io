@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gluten Free Sourdough - Attempt 7
-date: 2021-03-12
+trial_date: 2021-03-12
 trial: 7
 ---
 
