@@ -112,7 +112,7 @@ Overall, this is one of the best gluten free breads I've tried!
 1. [2021-03-24: # 19](/experiments/gf-sourdough/2021-03-24-gf-sourdough-num-19.md)
 1. [2021-03-25: # 20](/experiments/gf-sourdough/2021-03-25-gf-sourdough-num-20.md)
 1. [2021-03-26: # 21](/experiments/gf-sourdough/2021-03-26-gf-sourdough-num-21.md)
-1. [2021-03-27: # 21](/experiments/gf-sourdough/2021-03-27-gf-sourdough-num-21.md)
+1. [2021-03-27: # 22](/experiments/gf-sourdough/2021-03-27-gf-sourdough-num-22.md)
 1. [2021-03-28: # 23](/experiments/gf-sourdough/2021-03-28-gf-sourdough-num-23.md)
 
 # Sources
