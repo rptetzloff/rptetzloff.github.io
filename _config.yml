@@ -48,6 +48,9 @@ footer-col: "#154c79"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#2481ce"
 
+site-css:
+  - "/assets/css/custom-styles.css"
+
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
@@ -127,7 +130,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 250
+excerpt_length: 500
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -140,7 +143,7 @@ timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
