@@ -93,7 +93,7 @@ Overall, this is one of the best gluten free breads I've tried!
 
 <ul>
 {% for trial in site.trials %}
-<li><a href="{{ trial.url }}">{{ trial.trial_date }} - {{ trial.trial }}</a></li>
+<li><a href="{{ trial.url }}">{{ trial.trial_date }} - {{ trial.trial:2 }}</a></li>
 {% endfor %}
 </ul>
 
