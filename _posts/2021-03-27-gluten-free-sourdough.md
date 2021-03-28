@@ -89,6 +89,32 @@ This bread is great on its own, toasted with almond butter and fruit preserves, 
 
 Overall, this is one of the best gluten free breads I've tried!
 
+# Experiments
+
+1. [2021-03-06: # 1](/experiments/gf-sourdough/2021-03-06-gf-sourdough-num-1.md)
+1. [2021-03-07: # 2](/experiments/gf-sourdough/2021-03-07-gf-sourdough-num-2.md)
+1. [2021-03-08: # 3](/experiments/gf-sourdough/2021-03-08-gf-sourdough-num-3.md)
+1. [2021-03-09: # 4](/experiments/gf-sourdough/2021-03-09-gf-sourdough-num-4.md)
+1. [2021-03-10: # 5](/experiments/gf-sourdough/2021-03-10-gf-sourdough-num-5.md)
+1. [2021-03-11: # 6](/experiments/gf-sourdough/2021-03-11-gf-sourdough-num-6.md)
+1. [2021-03-12: # 7](/experiments/gf-sourdough/2021-03-12-gf-sourdough-num-7.md)
+1. [2021-03-13: # 8](/experiments/gf-sourdough/2021-03-13-gf-sourdough-num-8.md)
+1. [2021-03-14: # 9](/experiments/gf-sourdough/2021-03-14-gf-sourdough-num-9.md)
+1. [2021-03-15: # 10](/experiments/gf-sourdough/2021-03-15-gf-sourdough-num-10.md)
+1. [2021-03-16: # 11](/experiments/gf-sourdough/2021-03-16-gf-sourdough-num-11.md)
+1. [2021-03-17: # 12](/experiments/gf-sourdough/2021-03-17-gf-sourdough-num-12.md)
+1. [2021-03-18: # 13](/experiments/gf-sourdough/2021-03-18-gf-sourdough-num-13.md)
+1. [2021-03-19: # 14](/experiments/gf-sourdough/2021-03-19-gf-sourdough-num-14.md)
+1. [2021-03-20: # 15](/experiments/gf-sourdough/2021-03-20-gf-sourdough-num-15.md)
+1. [2021-03-21: # 16](/experiments/gf-sourdough/2021-03-21-gf-sourdough-num-16.md)
+1. [2021-03-22: # 17](/experiments/gf-sourdough/2021-03-22-gf-sourdough-num-17.md)
+1. [2021-03-23: # 18](/experiments/gf-sourdough/2021-03-23-gf-sourdough-num-18.md)
+1. [2021-03-24: # 19](/experiments/gf-sourdough/2021-03-24-gf-sourdough-num-19.md)
+1. [2021-03-25: # 20](/experiments/gf-sourdough/2021-03-25-gf-sourdough-num-20.md)
+1. [2021-03-26: # 21](/experiments/gf-sourdough/2021-03-26-gf-sourdough-num-21.md)
+1. [2021-03-27: # 21](/experiments/gf-sourdough/2021-03-27-gf-sourdough-num-21.md)
+1. [2021-03-28: # 23](/experiments/gf-sourdough/2021-03-28-gf-sourdough-num-23.md)
+
 # Sources
 These are the sources I use for the following ingredients. I tend to buy in bulk, as there is often a significant discount in doing so. 
 - [White Rice Flour](https://nuts.com/cookingbaking/rice/white-flour.html): Nuts.com
