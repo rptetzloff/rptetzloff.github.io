@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Gluten Free Sourdough Attempt # 22
-tags: [gluten free, gluten-free, sourdough, bread, buns, boule]
+title: Gluten Free Sourdough
+tags: [gluten free, gluten-free, sourdough, bread, buns]
 ---
-# Gluten Free Sourdough Bread and Buns
 I've been eating gluten-free for about seven years now. For most things, there are reasonable substitutes, even if needing to be made from scratch. You can even get genuine [gluten-free Oreos](https://www.oreo.com/oreo-cookies/gluten-free) now, and they're *good*.
 
 The problem has been bread. Most gluten-free breads are either so dense that you can't really make a reasonable sandwich from them, or they're so crumbly or brittle that they fall apart to a sandwich of any substance.
@@ -93,7 +92,7 @@ Overall, this is one of the best gluten free breads I've tried!
 
 <ul>
 {% for trial in site.trials %}
-<li><a href="{{ trial.url }}">{{ trial.trial_date }} - {{ trial.trial:2 }}</a></li>
+<li><a href="{{ trial.url }}">{{ trial.date | date: "%Y-%m-%d" }} - {{ trial.trial }}</a></li>
 {% endfor %}
 </ul>
 
