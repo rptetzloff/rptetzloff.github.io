@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gluten Free Sourdough Attempt 23
-trial: 23
+trial: "23"
 tags: [gluten free, gluten-free, sourdough, bread, sandwich, rice-free]
 ---
 ## Ingredients

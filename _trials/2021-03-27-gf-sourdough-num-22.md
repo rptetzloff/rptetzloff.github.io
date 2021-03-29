@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gluten Free Sourdough - Attempt 22
-trial: 22
+trial: "22"
 ---
 
 ## Ingredients
