@@ -105,7 +105,7 @@ These are the sources I'm currently using for ingredients. I tend to buy in bulk
 - [Teff Flour](https://nuts.com/cookingbaking/grains/teff/flour.html): Nuts.com
 - [Millet Flour](https://nuts.com/cookingbaking/grains/millet/flour.html): Nuts.com
 - [Oat Flour](https://anthonysgoods.com/products/organic-whole-grain-oat-flour-gluten-free-non-gmo-non-irradiated-finely-ground-vegan): Anthony's
-- [Almond Flour](https://nuts.com/nuts/almonds/flour.html)
+- [Almond Flour](https://nuts.com/nuts/almonds/flour.html): Nuts.com
 - [Tapioca Starch](https://anthonysgoods.com/products/anthonys-organic-tapioca-flour?variant=36986869809309): Anthony's
 - [Potato Starch](https://anthonysgoods.com/products/anthonys-organic-potato-starch?variant=36986863779997): Anthony's
 - [Psyllium Husk](https://anthonysgoods.com/products/organic-psyllium-husk-whole-non-gmo-gluten-free-vegan-friendly): Anthony's
