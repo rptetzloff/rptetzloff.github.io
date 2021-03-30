@@ -69,9 +69,9 @@ social-network-links:
   rss: true
   email: "ray@raytetzloff.com"
   github: rptetzloff
-  facebook: rtetzloff
-  twitter: rtetzloff
-  reddit: rtetzloff
+#  facebook: rtetzloff
+#  twitter: rtetzloff
+#  reddit: rtetzloff
 
 # Select which share links to show in posts
 share-links-active:
