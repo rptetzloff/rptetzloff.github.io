@@ -2,6 +2,7 @@
 layout: post
 title: Gluten Free Sourdough
 tags: [gluten free, gluten-free, sourdough, bread, buns]
+last-updated: 2021-03-30
 ---
 I've been eating gluten-free for about seven years now. For most things, there are reasonable substitutes, even if needing to be made from scratch. You can even get genuine [gluten-free Oreos](https://www.oreo.com/oreo-cookies/gluten-free) now, and they're *good*.
 
@@ -97,16 +98,17 @@ Overall, this is one of the best gluten free breads I've tried!
 </ul>
 
 # Sources
-These are the sources I use for the following ingredients. I tend to buy in bulk, as there is often a significant discount in doing so. 
+These are the sources I'm currently using for ingredients. I tend to buy in bulk, as there is often a significant discount in doing so. 
 - [White Rice Flour](https://nuts.com/cookingbaking/rice/white-flour.html): Nuts.com
 - [Brown Rice Flour](https://nuts.com/cookingbaking/rice/brown-flour.html): Nuts.com
 - [Sorghum Flour](https://nuts.com/cookingbaking/flours/sweet-white-sorghum-gluten-free.html): Nuts.com
 - [Teff Flour](https://nuts.com/cookingbaking/grains/teff/flour.html): Nuts.com
 - [Millet Flour](https://nuts.com/cookingbaking/grains/millet/flour.html): Nuts.com
-- [Oat Flour](https://www.amazon.com/gp/product/B0898N89VV/): Anthony's
-- [Tapioca Starch](https://www.amazon.com/Tapioca-Bundle-Packages-Carefree-Caribou/dp/B08KXL695F/): Bob's Red Mill
-- [Potato Starch](https://www.amazon.com/Bobs-Red-Mill-Packages-Unmodified/dp/B08KT1KHZ3/): Bob's Red Mill
-- [Psyllium Husk](https://www.amazon.com/gp/product/B07CPJJWTH/): Anthony
+- [Oat Flour](https://anthonysgoods.com/products/organic-whole-grain-oat-flour-gluten-free-non-gmo-non-irradiated-finely-ground-vegan): Anthony's
+- [Almond Flour](https://nuts.com/nuts/almonds/flour.html)
+- [Tapioca Starch](https://anthonysgoods.com/products/anthonys-organic-tapioca-flour?variant=36986869809309): Anthony's
+- [Potato Starch](https://anthonysgoods.com/products/anthonys-organic-potato-starch?variant=36986863779997): Anthony's
+- [Psyllium Husk](https://anthonysgoods.com/products/organic-psyllium-husk-whole-non-gmo-gluten-free-vegan-friendly): Anthony's
 - [Maple Syrup](https://www.tappedmaplesyrup.com/store/pure-maple-syrup): Tapped
 - [Fine Sea Salt](https://www.amazon.com/Redmond-Real-Salt-Ancient-Unrefined/dp/B072JH92NZ/): Redmond Real Salt
 - [Instant Yeast](https://www.amazon.com/gp/product/B0049WLQ30/): SAF
