@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gluten Free Sourdough Attempt 23
-trial: "23"
+title: Gluten Free Sourdough Attempt 24
+trial: "24"
 tags: [gluten free, gluten-free, sourdough, bread, sandwich, rice-free]
 ---
 ## Ingredients
@@ -44,4 +44,4 @@ This was proofed for about seven hours in a bread pan, baked at 425º for 40 min
 
 ## Notes
 
-Bread was slightly denser and more crumbly than previous attempts. It seems to dry more quickly than other loaves.
+**pending**
