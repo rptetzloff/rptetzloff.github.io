@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: Gluten Free Sourdough Attempt 27
-trial: "27"
+title: Gluten Free Sourdough Attempt 26
+trial: "26"
 tags: [gluten free, gluten-free, sourdough, bread, buns, rice-free]
 ---
 
