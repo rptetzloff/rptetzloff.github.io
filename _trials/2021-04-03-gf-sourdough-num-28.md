@@ -12,7 +12,7 @@ tags: [gluten free, gluten-free, sourdough, bread, rice-free]
 - 150g sourdough starter (125% hydration - sorghum, quinoa, white rice flours)
 - 100g water
 - 80g sorghum flour
-- (plus add 20g olive oil when mixing in liquids and yeast) [Optional, but highly recommended to soften the crust]
+- (plus add 20g olive oil when mixing in liquids and yeast)
 
 ### Liquids
 
