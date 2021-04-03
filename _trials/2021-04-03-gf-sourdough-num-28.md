@@ -47,9 +47,9 @@ tags: [gluten free, gluten-free, sourdough, bread, rice-free]
 ## Instructions
 
 This was placed into a bread loaf pan with collar, brushed with water, and
-proofed for about ten hours, baked at 425º for 40 minutes covered in foil, then foil removed and
+proofed for about three hours, baked at 425º for 40 minutes covered in foil, then foil removed and
 baked for an additional 10 minutes.
 
 ## Notes
 
-This loaf was soft, with a very soft crust. It flattened out, but had great texture.
+**pending**
