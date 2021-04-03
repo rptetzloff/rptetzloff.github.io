@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: Gluten Free Sourdough Attempt 26
-trial: "26"
+title: Gluten Free Sourdough Attempt 27
+trial: "27"
 tags: [gluten free, gluten-free, sourdough, bread, buns, rice-free]
 ---
 
@@ -52,4 +52,4 @@ baked for an additional 12 minutes.
 
 ## Notes
 
-**pending**
+These buns were soft with a crust that was easy to chew. It held up well to a bacon, egg, and avocado breakfast sandwich.

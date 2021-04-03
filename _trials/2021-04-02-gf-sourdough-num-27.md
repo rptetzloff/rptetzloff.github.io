@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: Gluten Free Sourdough Attempt 25 
-trial: "25"
+title: Gluten Free Sourdough Attempt 26
+trial: "26"
 tags: [gluten free, gluten-free, sourdough, bread, buns, rice-free]
 ---
 
@@ -46,10 +46,10 @@ tags: [gluten free, gluten-free, sourdough, bread, buns, rice-free]
 
 ## Instructions
 
-This was divided into eight portions for hamburger buns, placed into a hamburger mold pan, brushed with water, and
-proofed for about ten hours in a hamburger bun mold, baked at 400º for 30 minutes covered in foil, then foil removed and
-baked for an additional 12 minutes.
+This was placed into a bread loaf pan with collar, brushed with water, and
+proofed for about ten hours, baked at 425º for 40 minutes covered in foil, then foil removed and
+baked for an additional 10 minutes.
 
 ## Notes
 
-These buns were soft with a crust that was easy to chew. It held up well to a bacon, egg, and avocado breakfast sandwich.
+This loaf was soft, with a very soft crust. It flattened out, but had great texture.
