@@ -33,7 +33,7 @@ tags: [gluten free, gluten-free, sourdough, bread, buns, rice-free]
 - 35g sorghum flour
 - 35g millet flour
 - 40g teff flour
-- 35g almond flour (gluten-free, of course)
+- 35g almond flour
 - 12g fine sea salt
 
 ## Allergens

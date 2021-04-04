@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Gluten Free Sourdough Attempt 28
+title: Gluten Free Sourdough Attempt 28 
 trial: "28"
 tags: [gluten free, gluten-free, sourdough, bread, rice-free]
 ---
@@ -33,7 +33,7 @@ tags: [gluten free, gluten-free, sourdough, bread, rice-free]
 - 35g sorghum flour
 - 35g millet flour
 - 40g teff flour
-- 35g almond flour (gluten-free, of course)
+- 35g almond flour
 - 12g fine sea salt
 
 ## Allergens
@@ -46,10 +46,10 @@ tags: [gluten free, gluten-free, sourdough, bread, rice-free]
 
 ## Instructions
 
-This was placed into a bread loaf pan with collar, brushed with water, and
-proofed for about three hours, baked at 425º for 40 minutes covered in foil, then foil removed and
-baked for an additional 10 minutes.
+This was placed into a bread loaf pan with collar, brushed with water, and proofed for about three hours, baked at 425º
+for 40 minutes covered in foil, then foil removed and baked for an additional 10 minutes. Removed from pan and cooled
+upside down on cooling rack for several hours before removing collar.
 
 ## Notes
 
-**pending**
+Good rise, great texture. A couple crystals, but soft with good chew. Toasted okay.

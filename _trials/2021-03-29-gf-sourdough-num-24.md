@@ -28,7 +28,7 @@ tags: [gluten free, gluten-free, sourdough, bread, sandwich, rice-free]
 - 40g sorghum flour
 - 40g millet flour
 - 40g teff flour
-- 35g almond flour (gluten-free, of course)
+- 35g almond flour
 - 12g fine sea salt
 
 ## Allergens
